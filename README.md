@@ -1,3 +1,6 @@
+![Architecture](https://github.com/Raghukarn/AWS-S3-to-Snowflake-Data-Pipeline-and-Dahsboard---Stock-Price/assets/119719960/1254dbbd-012d-4723-841b-de20bd6b5c24)
+
+
 # AWS-S3-to-Snowflake-Data-Pipeline-and-Dahsboard---Stock-Price
 
 ## Project Goal:
